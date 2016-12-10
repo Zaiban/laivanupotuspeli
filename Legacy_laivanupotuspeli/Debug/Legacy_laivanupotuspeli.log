@@ -1,0 +1,19 @@
+﻿  uusi_aloitus.cpp
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\uusi_aloitus.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\kehys.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  sijainti_kasin.cpp
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\sijainti_kasin.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\numerot_sanoiksi.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  sijainti_arpomalla.cpp
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\sijainti_arpomalla.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  main.cpp
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\paavalikko.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\kehys.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\sijainti_kasin.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\numerot_sanoiksi.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\uusi_aloitus.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\sijainti_arpomalla.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\prototyypit\tarkista_osuma.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+d:\dropbox\vs_projektit\legacy_laivanupotuspeli\legacy_laivanupotuspeli\main.cpp(217): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Legacy_laivanupotuspeli.vcxproj -> D:\Dropbox\VS_Projektit\Legacy_laivanupotuspeli\Debug\Legacy_laivanupotuspeli.exe

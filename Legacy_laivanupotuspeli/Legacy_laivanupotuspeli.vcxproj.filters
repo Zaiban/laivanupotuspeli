@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="alusta_laiva_id.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ammunta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aseta_laiva.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kehys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nimet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="numerot_sanoiksi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paavalikko.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="setup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sijainti_arpomalla.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sijainti_kasin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="simuloi_ampuminen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tarkista_osuma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tulosta_peliohje.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tulosta_tilastot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="uusi_aloitus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vakoilu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rakenteet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vakiot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\alusta_laiva_id.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\ammunta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\aseta_laiva.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\kehys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\nimet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\numerot_sanoiksi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\paavalikko.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\sijainti_arpomalla.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\sijainti_kasin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\simuloi_ampuminen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\tarkista_osuma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\tulosta_peliohje.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\tulosta_tilastot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\uusi_aloitus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prototyypit\vakoilu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

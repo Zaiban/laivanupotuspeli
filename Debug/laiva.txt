@@ -1,0 +1,11 @@
+#Pelikentan sivun pituutta voi saataa valilla 5-9: 
+pelikentan_sivu=7
+#Eripituisten laivojen lukumaaraa voi saataa valilla 0-5: 
+5_laivat=1
+4_laivat=1
+3_laivat=1
+2_laivat=1
+#Simuloinnin nopeutta voi saataa asettamalla halutun
+#viiveen kokonaisina sekunteina. Jos viiveeksi asetetaan 0,
+#pelaajan taytyy painaa nappainta edetakseen simulaatiossa.
+simulointi_viive=0
